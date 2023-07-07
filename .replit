@@ -1,1 +1,3 @@
-run = [chmod +x ./cloudreve && ./cloudreve]
+run = ["./cloudreve"]
+
+entrypoint = "./cloudreve"
